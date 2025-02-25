@@ -8,5 +8,5 @@
 
 ## az pipeline setup
 
-- [ref1](https://www.youtube.com/watch?v=tbfPpOx1Nw0&t=50s)
-- [ref2](https://www.youtube.com/watch?v=b5ipDKyukLQ)
+- [create 1st pipeline](https://www.youtube.com/watch?v=tbfPpOx1Nw0&t=50s)
+- [add more jobs to pipeline](https://www.youtube.com/watch?v=b5ipDKyukLQ)
