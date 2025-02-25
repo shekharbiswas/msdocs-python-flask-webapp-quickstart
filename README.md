@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/odluser225474/msdocs-python-flask-webapp-quickstart/_apis/build/status/SudKul.msdocs-python-flask-webapp-quickstart?branchName=main)](https://dev.azure.com/odluser225474/msdocs-python-flask-webapp-quickstart/_build/latest?definitionId=1&branchName=main)
-
 [![Build Status](https://dev.azure.com/shekhar07nitdgp/msdocs/_apis/build/status%2Fshekharbiswas.msdocs-python-flask-webapp-quickstart?branchName=main)](https://dev.azure.com/shekhar07nitdgp/msdocs/_build/latest?definitionId=15&branchName=main)
 
 # Deploy a Python (Flask) web app to Azure App Service - Sample Application
