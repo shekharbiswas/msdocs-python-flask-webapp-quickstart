@@ -10,3 +10,4 @@
 
 - [create 1st pipeline](https://www.youtube.com/watch?v=tbfPpOx1Nw0&t=50s)
 - [add more jobs to pipeline](https://www.youtube.com/watch?v=b5ipDKyukLQ)
+- [add more stages to the pipeline](https://www.youtube.com/watch?v=dOqIqJltfbY)
