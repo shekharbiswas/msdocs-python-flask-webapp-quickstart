@@ -11,4 +11,4 @@ Sample applications are available for the other frameworks here:
 * Django [https://github.com/Azure-Samples/msdocs-python-django-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-django-webapp-quickstart)
 * FastAPI [https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart)
 
-One can create Azure account: [create one for free](https://azure.microsoft.com/en-us/free/).
+One can create Azure account: [get for free](https://azure.microsoft.com/en-us/free/).
